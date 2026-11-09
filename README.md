@@ -1,6 +1,6 @@
 # Scripts
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24088985.svg)](https://doi.org/10.5281/zenodo.24088985)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24088984.svg)](https://doi.org/10.5281/zenodo.24088984)
 
 Analysis scripts from the Helminth Unit, Parasitology Reference and Research Laboratory, Centro Nacional de Microbiología, Instituto de Salud Carlos III (Madrid, Spain).
 
@@ -43,7 +43,7 @@ If you use these scripts, please cite the corresponding article. To cite the rep
 
 > Sotillo J (2026). Scripts: analysis scripts from the Helminth Unit, Instituto de Salud Carlos III (v1.0). Zenodo. https://doi.org/10.5281/zenodo.24088985
 
-Each release on GitHub is archived in Zenodo with its own DOI.
+Each release on GitHub is archived in Zenodo with its own DOI; please cite the version you used. The DOI [10.5281/zenodo.24088984](https://doi.org/10.5281/zenodo.24088984) represents all versions and always resolves to the latest one.
 
 ## Licence
 
