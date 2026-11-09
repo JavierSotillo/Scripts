@@ -23,6 +23,8 @@ The repository has two parts:
 
 The prevalence and confidence interval calculator is at the root of the repository, [`Prevalence_CI_Calculator.py`](Prevalence_CI_Calculator.py).
 
+The [`Julia/`](Julia) folder contains a PCA and a heatmap of *Anisakis* excretory/secretory products over eight days of culture. Both read the Excel file `Ani_ESPs_Report_Scripts_R.xlsx` from the working directory.
+
 ## Scripts by article
 
 | Article | Folder |
