@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use these scripts, please cite the corresponding article listed in the README, or this repository as below."
+title: "Scripts: analysis scripts from the Helminth Unit, Instituto de Salud Carlos III"
+type: software
+authors:
+  - family-names: Sotillo
+    given-names: Javier
+    affiliation: "Instituto de Salud Carlos III"
+repository-code: "https://github.com/JavierSotillo/Scripts"
+license: MIT
