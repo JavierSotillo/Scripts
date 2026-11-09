@@ -21,9 +21,10 @@ The repository has two parts:
 | | `go_enrichment_interpro2go.R` | GO enrichment for non-model organisms through InterPro domains (e.g. WormBase ParaSite annotations) |
 | `sequences/` | `extract_fasta_headers.R` | Extract sequence identifiers from a FASTA file |
 | | `fastq_stats.R` | Number of reads and read-length summary of a FASTQ file |
-| `statistics/` | `random_lca.R` | Latent class analysis of binary diagnostic test results |
+| `diagnostics/` | `prevalence_ci.py` | Prevalence and confidence interval (normal/Wald approximation) |
+| | `random_lca.R` | Latent class analysis of binary diagnostic test results |
 
-The prevalence and confidence interval calculator is at the root of the repository, [`Prevalence_CI_Calculator.py`](Prevalence_CI_Calculator.py).
+`Prevalence_CI_Calculator.py` at the root only points to the current location of the calculator; it is kept because a published article links to that path.
 
 The [`Julia/`](Julia) folder contains a PCA and a heatmap of *Anisakis* excretory/secretory products over eight days of culture. Both read the Excel file `Ani_ESPs_Report_Scripts_R.xlsx` from the working directory.
 

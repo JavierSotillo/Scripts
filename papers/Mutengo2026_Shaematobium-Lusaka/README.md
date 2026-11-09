@@ -10,7 +10,7 @@ Analysis script for:
 |---|---|
 | `prevalence_ci.py` | Prevalence and 95% confidence interval using the normal (Wald) approximation. Run without arguments, it reproduces Table 2 of the article. |
 
-The article links to an identical copy at the root of this repository, [`Prevalence_CI_Calculator.py`](../../Prevalence_CI_Calculator.py), which is kept at that path so the link remains valid.
+The article links to [`Prevalence_CI_Calculator.py`](../../Prevalence_CI_Calculator.py) at the root of this repository, which now points to this folder. A general version of the calculator is in [`general/diagnostics/`](../../general/diagnostics).
 
 ## Usage
 
