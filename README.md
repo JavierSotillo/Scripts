@@ -1,5 +1,7 @@
 # Scripts
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24088985.svg)](https://doi.org/10.5281/zenodo.24088985)
+
 Analysis scripts from the Helminth Unit, Parasitology Reference and Research Laboratory, Centro Nacional de Microbiología, Instituto de Salud Carlos III (Madrid, Spain).
 
 The repository has two parts:
@@ -37,7 +39,11 @@ R scripts install any missing CRAN or Bioconductor packages when first run. Scri
 
 ## Citation
 
-If you use these scripts, please cite the corresponding article, or this repository as described in [`CITATION.cff`](CITATION.cff).
+If you use these scripts, please cite the corresponding article. To cite the repository itself:
+
+> Sotillo J (2026). Scripts: analysis scripts from the Helminth Unit, Instituto de Salud Carlos III (v1.0). Zenodo. https://doi.org/10.5281/zenodo.24088985
+
+Each release on GitHub is archived in Zenodo with its own DOI.
 
 ## Licence
 
