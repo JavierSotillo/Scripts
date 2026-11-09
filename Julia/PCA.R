@@ -5,7 +5,7 @@ library(ggplot2)
 
 # 1. Cargar archivo Excel
 #    >>> CAMBIA esta ruta por la de tu Excel (usa "/" en lugar de "\") <<<
-file_path <- "C:/Users/José Antonio/Documents/JULIA/COSAS 1ºPAPER/Scripts_R_HeatMap_PLSDA/Ani_ESPs_Report_Scripts_R.xlsx"
+file_path <- "Ani_ESPs_Report_Scripts_R.xlsx"
 data_raw <- read_excel(file_path, col_names = FALSE)  # leer sin nombres de columna automáticos
 
 # 2. Localizar la fila "Group" y extraer las etiquetas de grupo (sin la primera columna)

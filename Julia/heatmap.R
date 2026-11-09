@@ -15,7 +15,7 @@ library(dendextend)
 # ------------------------------------------------------------
 # 0. RUTA DEL ARCHIVO EXCEL
 # ------------------------------------------------------------
-excel_path <- "C:/Users/José Antonio/Documents/JULIA/COSAS 1ºPAPER/Scripts_R_HeatMap_PLSDA/Ani_ESPs_Report_Scripts_R.xlsx"
+excel_path <- "Ani_ESPs_Report_Scripts_R.xlsx"
 
 # ------------------------------------------------------------
 # 1. CARGAR MATRIZ DE INTENSIDADES (formato ancho, log2)
